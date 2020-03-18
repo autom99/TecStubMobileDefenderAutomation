@@ -1,0 +1,16 @@
+#Step by step install TestNG in Eclipse Photon:-
+------------------------------------------------
+1.Click on Help -> Install New software
+
+2.Then paste the below URL
+
+ https://beust.com/eclipse
+ 
+ or
+
+ http://dl.bintray.com/testng-team/testng-eclipse-release/
+ 
+ 3.Checked testNG
+ 
+ 4.Accept license and Finish. 
+ 
